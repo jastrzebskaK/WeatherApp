@@ -1,0 +1,22 @@
+body {
+  background-color: rgba(65, 65, 138, 0.774)
+}
+
+
+
+.App input, .App button {
+  margin: 20px;
+  padding: 10px 20px;
+  border: 2px solid gray;
+  background-color: #fff;
+  transition: .3s;
+}
+
+.App button {
+  cursor: pointer;
+}
+.App button:hover {
+  background-color: #000;
+  color: white;
+  border-color: black;
+}
